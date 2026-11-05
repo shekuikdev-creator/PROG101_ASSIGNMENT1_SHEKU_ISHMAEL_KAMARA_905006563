@@ -1,8 +1,5 @@
 # PROG101_ASSIGNMENT1_SHEKU_ISHMAEL_KAMARA_905006563
-# Community Waste Collection and Reporting System
-
-**Course:** PROG101 – Principles of Programming Logic and Design  
-**Institution:** Limkokwing University of Creative Technology, Freetown Campus  
+# Community Waste Collection and Reporting System 
 **Project theme:** Designing Logical Solutions for Sierra Leone Community Challenges  
 **Project location:** Wellington Upper Taylor Street, Loko Town, Freetown, Sierra Leone
 
