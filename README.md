@@ -135,3 +135,7 @@ END
 ## Project Contribution
 
 Proper waste management contributes to cleaner surroundings, safer drainage, healthier communities and a better living environment. By making waste-related incidents easier to report, prioritise and follow up, this project aims to support a cleaner and more responsible Wellington community.
+
+## Author
+- Sheku Ishmael Kamara
+- 905006563
